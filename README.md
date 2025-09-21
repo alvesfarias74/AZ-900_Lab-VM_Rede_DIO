@@ -50,4 +50,4 @@ As imagens do desafio prático estão organizadas na pasta `images`, ilustrando 
 
 ---
 
-> Este repositório é parte do curso de introdução ao Microsoft Azure (AZ-900). Para dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou contribuir com melhorias.
+> Este repositório é parte do Bootcamp Microsoft Azure (AZ-900) promovido pela DIO. Para dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou contribuir com melhorias.
