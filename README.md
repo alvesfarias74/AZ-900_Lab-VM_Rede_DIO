@@ -1,7 +1,7 @@
 # AZ-900_Lab-VM_Rede_DIO
 ## 💻 Criação de Máquinas Virtuais no Microsoft Azure
 
-Este repositório contém os materiais e capturas de tela referentes à aula sobre **Computação em Rede** e **Criação de VMs no Microsoft Azure**, parte do curso de introdução ao Azure (AZ-900). O objetivo é fornecer uma visão geral dos serviços de computação e rede disponíveis na plataforma, com foco na criação e gerenciamento de máquinas virtuais.
+Este repositório contém os materiais e capturas de tela referentes à aula sobre **Computação em Rede** e **Criação de VMs no Microsoft Azure**, parte do Bootcamp Microsoft Azure (AZ-900). O objetivo é fornecer uma visão geral dos serviços de computação e rede disponíveis na plataforma, com foco na criação e gerenciamento de máquinas virtuais.
 
 ## 📚 Conteúdo da Aula
 
